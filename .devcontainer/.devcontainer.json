@@ -16,6 +16,7 @@
         "dbaeumer.vscode-eslint",
         "GitHub.copilot"
       ]
-    }
+    },
+    "postCreateCommand": "npm install -g @angular/cli@17"
   }
 }
