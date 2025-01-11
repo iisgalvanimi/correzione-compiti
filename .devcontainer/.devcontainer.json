@@ -1,11 +1,21 @@
 {
-"customizations": {
+  "customizations": {
     "codespaces": {
       "repositories": {
-        "malizia-g/*": {
+        "iisgalvanimi/*": {
+          "permissions": "write-all"
+        },
+        "iisgalvanimi/using-data-in-angular-clan-graziano": {
           "permissions": "write-all"
         }
       }
+    },
+    "vscode": {
+      "extensions": [
+        "angular.ng-template",
+        "dbaeumer.vscode-eslint",
+        "GitHub.copilot"
+      ]
     }
   }
 }
