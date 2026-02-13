@@ -1,0 +1,11 @@
+Livello,Titolo Verifica,Descrizione del Compito e Competenze Richieste,Esercizi di Riferimento,Valutazione Max
+1. Base,Input & Stile Condizionale,"Obiettivo: Creare un form semplice che reagisce all'input utente. 
+Competenze: input.value , modifica diretta dello stile (style.border, style.color).",Es. 1 (Il Portiere)  Es. 2 (Il Giudice),"6,5"
+2. Intermedio,Logica Numerica & Stato,"Obiettivo: Gestire numeri, conversioni e variabili di stato.  
+Competenze: Gestione dello stato globale, operatori di confronto.",Es. 3 (Contatore)  Es. 4 (Tabellina),"7,5"
+3. Avanzato,Cicli & Classi CSS,"Obiettivo: Automatizzare la creazione di contenuti e gestire stili complessi.  
+Competenze: Cicli, operatore modulo % base, gestione classi CSS (add, remove, toggle).",Es. 5 (Analizzatore)  Es. 6 (Palindromo),"8,5"
+4. Esperto,Array & Creazione Dinamica,"Obiettivo: Manipolare strutture dati complesse e creare elementi DOM da zero.  
+Competenze: Metodi delle stringhe e array, createElement, appendChild.",Es. 7 (Scontrino)  Es. 8 (Filtro Numeri),10
+5. Master,Algoritmi & Integrazione Totale,"Obiettivo: Risolvere problemi algoritmici con feedback visivo avanzato.  
+Competenze: Logica algoritmica, manipolazione fine del DOM, UX feedback.",Es. 9 (Camaleonte)  Es. 10 (Lampadina),11

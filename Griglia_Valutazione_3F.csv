@@ -1,0 +1,17 @@
+Studente,Tipo Verifica,Livello,Difficoltà (Coeff),Commit,Funzionalità,Completezza,Qualità Codice,Voto Grezzo,Voto Ponderato,Note,Sospetto AI
+Toci,Normale,Base,0.65,2,7,5,8,6.7,4.4,"Manca la seconda ora (Controllo Disponibilità VIP)",NO
+Castoldi,Normale,Base,0.65,9,9,9,7,8.3,5.4,"Entrambe le ore complete e funzionanti. Soluzione ben strutturata.",FORSE
+Bucca,Normale,Intermedio,0.75,5,8,6,6,6.7,5.0,"Manca Algoritmo 'Urlatore' (rilevare !!). Prima ora completata correttamente.",NO
+Crotti,Normale,Intermedio,0.75,3,4,3,4,3.7,2.8,"⚠️ ERRORI CRITICI: HTML con sintassi sbagliata (on click). JS: document.getElementById()=valore non aggiorna display. Manca seconda ora (stelle). Manca funzionalità di base.",NO
+Ferchichi,Normale,Intermedio,0.75,9,8,9,8,8.3,6.2,"Soluzione completa. Piccolo bug: ciclo for usa i < n (manca una stella al conteggio)",NO
+Hu,Normale,Intermedio,0.75,8,9,9,9,9.0,6.8,"✅ OTTIMA SOLUZIONE! Codice completo, funzionante e ben strutturato. Usa emoji 🌟.",NO
+Hussein,Normale,Intermedio,0.75,2,3,2,3,2.7,2.0,"⚠️ ATTENZIONE: Pochi commit (2). Errori nel codice: ID inesistenti in HTML, riferimenti a elementi non presenti. Non conta lunghezza testo. Logica @ dentro il ciclo (sbagliata). Manca validazione <10 caratteri.",NO
+Lin,Normale,Intermedio,0.75,9,4,3,3,3.3,2.5,"❌ Errori di logica (= invece di ==). Ciclo for fuori dalla funzione. Stelle non si aggiornano mai.",NO
+Pattonieri,Normale,Intermedio,0.75,5,3,2,3,2.7,2.0,"❌ Codice incompleto. Funzione aggiornaStelle non implementata. Ciclo crea bottoni inutili.",NO
+Diallo,Normale,Avanzato,0.85,8,8,8,8,8.0,6.8,"✅ Soluzione completa. Dark mode, lampada interattiva, slider opacity, timer text. Buona struttura.",NO
+Ferrari,Normale,Master,1.10,10,10,10,10,10.0,11.0,"⭐ ECCELLENTE! Codice perfetto con JSDoc comments. Event listeners, setInterval per countdown reale. Dark mode completa. Slider opacity. Timer con minuti correggibili. La migliore soluzione della classe!",SI
+Centanni,Recupero,Base,0.65,4,9,9,8,8.7,5.7,"✅ Soluzione completa. Stesso livello di Castoldi. Entrambe le ore ben implementate.",FORSE
+Dong,Recupero,Base,0.65,8,8,8,7,7.7,5.0,"✅ Buona soluzione. Simile a Centanni. Entrambe le ore complete e funzionanti.",NO
+Rusnati,Recupero,Intermedio,0.75,6,7,6,6,6.3,4.7,"✅ Termometro funzionante. Limiti 0-40, colori, barra grafica con |. Soluzione corretta.",NO
+Shaba,Recupero,Intermedio,0.75,4,5,5,4,4.7,3.5,"⚠️ Termometro con bug. La barra usa -= su innerHTML (sbagliato). Logica parzialmente funzionante.",NO
+Eisa,Recupero,Medio-Alto,1.00,7,8,7,7,7.3,7.3,"✅ Buona soluzione! Categoria 4 (Data List Manager). Array methods, forEach, filter, createElement. Bene strutturato.",FORSE
